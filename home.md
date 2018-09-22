@@ -1,6 +1,4 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: myFreed -->
+<!-- SUBTITLE: notes app for myFreed by Wiki.js -->
 
-# Header
 
-myFreed Homepage
