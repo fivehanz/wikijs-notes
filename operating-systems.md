@@ -1,4 +1,3 @@
-[video](https://www.youtube.com/watch?v=2i2N_Qo_FyM){.youtube}
 <!-- TITLE: Operating Systems -->
 <!-- SUBTITLE: A quick summary of Operating Systems - Introduction-->
 
@@ -10,4 +9,13 @@
 	* secondary: to use the computer hardware in an ***efficient*** manner.
 * the hardware - CPU, memory, and I/O devices - basic computing resources
 * the applications programs -
+
+
+
+
+
+-----
+
+
+[video](https://www.youtube.com/watch?v=2i2N_Qo_FyM){.youtube}
 
