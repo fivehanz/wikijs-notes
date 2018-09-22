@@ -1,3 +1,4 @@
+[video](https://www.youtube.com/watch?v=2i2N_Qo_FyM){.youtube}
 <!-- TITLE: Operating Systems -->
 <!-- SUBTITLE: A quick summary of Operating Systems - Introduction-->
 
