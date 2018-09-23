@@ -10,6 +10,7 @@
 	* all programs are executed by processor
 * **Main memory:**
 	* store information
+	* primary/real memory
 * **I/O modules:**
 	* input -> computer -> output
 * **System bus:**
