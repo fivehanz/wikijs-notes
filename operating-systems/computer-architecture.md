@@ -48,6 +48,6 @@
 
 
 # Memory/Storage Hierarchy
-
+[Notes](http://admin.bharatacharyaeducation.com/uploads/bharatacharya/video_notes/182/c48976dac9d97c3e1c424482f4ce187a.pdf)
 
 
