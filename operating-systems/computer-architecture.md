@@ -39,4 +39,7 @@
 12. The above instruction cycle then repeats for further instructions.
 
 
+# Interrupt
+* [wiki][https://en.wikipedia.org/wiki/Interrupt]
+
 
