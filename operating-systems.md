@@ -3,5 +3,5 @@
 
 # Contents
 * [Introduce me](/operating-systems/intro)
-* [Process](/operating-systems/processes)
 * [Computer Architecture](/operating-systems/computer-architecture)
+* [Process](/operating-systems/processes)
