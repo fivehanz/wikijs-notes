@@ -40,6 +40,6 @@
 
 
 # Interrupt
-* [wiki][https://en.wikipedia.org/wiki/Interrupt]
+* [wiki](https://en.wikipedia.org/wiki/Interrupt)
 
 
