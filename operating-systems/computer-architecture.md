@@ -51,6 +51,8 @@
 [Notes](http://admin.bharatacharyaeducation.com/uploads/bharatacharya/video_notes/182/c48976dac9d97c3e1c424482f4ce187a.pdf)
 
 * are organized in hierarchy according to their speed and their cost.
+	* Size	of	expensive	/	fast	memory:	small
+	* Size	of	cheap	/	slow	memory:	large
 * Several types of memory devices are used in the computer forming a Memory Hierarchy
 * Each plays a specific role contributing to the **speed, cost effectiveness, portability, volatility** etc. 
 
