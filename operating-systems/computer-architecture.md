@@ -22,4 +22,8 @@
 	* bus is a set of **interconnecting lines used to carry information**.
 
 
+# Instructions
+* An instruction requires several steps which mainly involve fetching, decoding and execution.
+
+
 
