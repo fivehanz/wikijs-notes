@@ -1,5 +1,5 @@
 <!-- TITLE: Operating Systems -->
-<!-- SUBTITLE: A quick summary of Operating Systems - Introduction-->
+<!-- SUBTITLE: A quick view for Operating Systems -->
 
 # Contents
 * [Introduce me](/operating-systems/intro)
