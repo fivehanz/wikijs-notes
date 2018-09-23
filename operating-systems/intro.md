@@ -12,5 +12,4 @@
 
 
 
-[video](https://www.youtube.com/watch?v=2i2N_Qo_FyM){.youtube}
 
