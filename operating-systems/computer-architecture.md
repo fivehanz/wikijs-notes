@@ -42,6 +42,5 @@
 # Interrupt
 * [wiki](https://en.wikipedia.org/wiki/Interrupt)
 * Interrupt shifts the CPU execution to fixed location (or system stack) of service routine to execute it and upon completion, CPU resumes the interrupted computation.
-* 
 
 
