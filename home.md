@@ -2,4 +2,7 @@
 <!-- SUBTITLE: notes app for myFreed by Wiki.js -->
 
 
-#  [Operating Systems](/operating-systems)
+# OS
+[Operating Systems](/operating-systems)
+[Operating Systems](/operating-systems/)
+
