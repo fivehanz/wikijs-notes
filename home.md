@@ -4,6 +4,6 @@
 
 # OS
 * [Operating Systems](/operating-systems)
-	* [Process](/operating-systems/processes)
-	* [Computer Architecture](/operating-systems/computer-architecture)
+
+
 
