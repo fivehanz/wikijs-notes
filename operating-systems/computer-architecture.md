@@ -54,5 +54,6 @@
 * Several types of memory devices are used in the computer forming a Memory Hierarchy
 * Each plays a specific role contributing to the **speed, cost effectiveness, portability, volatility** etc. 
 
-### Cache
+##  Cache
+* 
 
