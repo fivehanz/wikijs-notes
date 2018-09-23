@@ -42,5 +42,12 @@
 # Interrupt
 * [wiki](https://en.wikipedia.org/wiki/Interrupt)
 * Interrupt shifts the CPU execution to fixed location (or system stack) of service routine to execute it and upon completion, CPU resumes the interrupted computation.
+* **Hardware interrupt** is	an	electronic	alerting	signal	originating	from	another	hardware component to the	processor.
+
+**DO MORE READING on THIS**
+
+
+# Memory/Storage Hierarchy
+
 
 
