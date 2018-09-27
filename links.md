@@ -6,3 +6,8 @@
 # KBS
 
 # C/C++
+
+
+# MISC
+
+[Linux Tutorial 7hrs](https://www.youtube.com/watch?v=9t_gJWC32zk)
