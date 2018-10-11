@@ -3,6 +3,7 @@
 
 # OS
 [Ravindrababu OS Playlist](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
+[IISc Bangalore: OS](https://nptel.ac.in/downloads/106108101/)
 # KBS
 
 # C/C++
