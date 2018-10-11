@@ -8,6 +8,8 @@
 
 # C/C++
 
+# SE 
+[IIT K, SE](https://nptel.ac.in/downloads/106105087/)
 
 # MISC
 
