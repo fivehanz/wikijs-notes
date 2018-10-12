@@ -5,7 +5,7 @@
 [Ravindrababu OS Playlist](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
 [IISc Bangalore: OS](https://nptel.ac.in/downloads/106108101/)
 # KBS
-
+[Fuzzy Logic Playlist](https://www.youtube.com/watch?v=tC3K8RLRIZc&index=2&list=PLIY8eNdw5tW9ZqgI9nfXxr6r-FHnLS90k)
 # C/C++
 [MIT 6.096 Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) 
 [MIT 6.088 Introduction to C Memory Management & C++ OOP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) 
