@@ -78,5 +78,6 @@
 [HolyGrail: CS Courses Collections](https://github.com/Developer-Y/cs-video-courses) 
 [HolyGrail: Technical Interview](https://github.com/Developer-Y/technical-interviews) 
 [HolyGrail: Science & Math](https://github.com/Developer-Y/math-science-video-lectures) 
-[HolyGrail: Distributed Systems, Scalability and System Design: Talks/Papers](https://github.com/Developer-Y/Scalable-Software-Architecture) [HolyGrail: Java](https://github.com/Developer-Y/all-things-java) 
+[HolyGrail: Distributed Systems, Scalability and System Design: Talks/Papers](https://github.com/Developer-Y/Scalable-Software-Architecture) 
+[HolyGrail: Java](https://github.com/Developer-Y/all-things-java) 
 
