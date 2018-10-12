@@ -83,7 +83,7 @@
 
 # Aspiration to do
 
-[Google Resources](https://techdevguide.withgoogle.com/resources/)
+[Google Resources](https://techdevguide.withgoogle.com/resources/){:target="_blank"}
 [Google Deep Learning](https://eu.udacity.com/course/deep-learning--ud730)
 [Stanford CS229 Machine Learning](https://see.stanford.edu/Course/CS229)
 [Google Summer of Code](https://summerofcode.withgoogle.com/)
