@@ -15,12 +15,16 @@
 
 [Discrete Maths: an open Introduction](http://discretetext.oscarlevin.com/dmoi/dmoi.html) 
 [MIT 6.042J Maths for CS 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) 
-[MIT 6.096 Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) 
-[MIT 6.088 Introduction to C Memory Management & C++ OOP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) 
-[MIT 6.S096 Effective Programming in C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) 
 
 # Algorithms and Data Structures
 
+[IIT Delhi Intro to Human Computer Interaction](http://nptel.ac.in/courses/106106177/) 
+[IIT Madras Design and Analysis of Algorithms](http://nptel.ac.in/courses/106106131/) 
+[IIT Kharagpur Design and Analysis of Algorithms](http://nptel.ac.in/courses/106105157/) 
+[IIT Bombay Design and Analysis of Algorithms](http://nptel.ac.in/courses/106101060/) 
+[MIT 6.046J Intro to Algorithms 2005](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) 
+[MIT 6.006 Intro to Algorithms 2008](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/) 
+[MIT 6.006 Intro to Algorithms 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) 
 [Stanford CS166 Data Structures](http://web.stanford.edu/class/cs166/) 
 [Princeton CS226 Algorithms & Data Structures](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) 
 [UC Berkeley CS 61B - Data Structures, Josh Hug, Spring 2016](http://datastructur.es/sp16/) 
