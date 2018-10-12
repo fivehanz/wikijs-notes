@@ -4,7 +4,9 @@
 # OS
 [Ravindrababu OS Playlist](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
 [IISc Bangalore: OS](https://nptel.ac.in/downloads/106108101/)
+[Deadlock in operating systems](https://www.youtube.com/watch?v=UVo9mGARkhQ&list=PLIY8eNdw5tW8htTVd7Cim3eV9bBkEiLvl)
 # KBS
+[Fuzzy Logic Tutorials | Introduction to Fuzzy Logic, Fuzzy Sets & Fuzzy Set Operations](https://www.youtube.com/watch?v=a2i-lHS-c_I)
 
 # C/C++
 [MIT 6.096 Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) 
