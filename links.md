@@ -43,18 +43,8 @@
 
 
 [Harvard Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5) 
-[Harvard Computer Science for Business Professionals](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc) 
-[Harvard CS50 2018 Intro to CS edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) 
-[Harvard CS50 2017 Intro to CS (Python replaces PHP)](https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu) 
-[Harvard CS50 2014 Intro to CS](https://www.youtube.com/playlist?list=PLhQjrBD2T383Q2VtqEaQn8nZh-681av20) 
 [Harvard Mobile Application Development with React Native](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR) 
 [Sketching Algorithms for Big Data](https://www.sketchingbigdata.org/) 
-[HolyGrail: CS Courses Collections](https://github.com/Developer-Y/cs-video-courses) 
-[HolyGrail: Technical Interview](https://github.com/Developer-Y/technical-interviews) 
-[HolyGrail: Science & Math](https://github.com/Developer-Y/math-science-video-lectures) 
-[HolyGrail: Distributed Systems, Scalability and System Design: Talks/Papers](https://github.com/Developer-Y/Scalable-Software-Architecture) [HolyGrail: Java](https://github.com/Developer-Y/all-things-java) 
-[Anonymous Technical Interviews](https://interviewing.io/) 
-[What CS Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/) 
 
 # eBooks
 [Interaction Design by Preece J (2002), Summary](http://www.sharritt.com/CISHCIExam/preece.html) 
@@ -62,6 +52,12 @@
 [The Design of Everyday Things by Norman, D. A. (1988), Summary](http://www.sharritt.com/CISHCIExam/norman.html) 
 [Introduction to Algorithms by CLRS 3rd ed, PDF](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
 # MISC / Tutorials
+[Anonymous Technical Interviews](https://interviewing.io/) 
+[What CS Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/) 
+[Harvard Computer Science for Business Professionals](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc) 
+[Harvard CS50 2018 Intro to CS edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) 
+[Harvard CS50 2017 Intro to CS (Python replaces PHP)](https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu) 
+[Harvard CS50 2014 Intro to CS](https://www.youtube.com/playlist?list=PLhQjrBD2T383Q2VtqEaQn8nZh-681av20) 
 [Misc/Motivational/Classic/Entrepreneurial Talks](https://github.com/Developer-Y/the-talks) 
 [Learn the Basics of UX Design.](https://www.uxapprentice.com) 
 [Visual Basic Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTr9wMK6f9lTzOzSX6a6Pk-) 
@@ -74,3 +70,11 @@
 [IIT Delhi Intro to Human Computer Interaction](http://nptel.ac.in/courses/106106177/) 
 [Linux Tutorial 7hrs](https://www.youtube.com/watch?v=9t_gJWC32zk)
 [Harvard Understanding Tech for Non-Techies](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p) 
+
+# More Links
+
+[HolyGrail: CS Courses Collections](https://github.com/Developer-Y/cs-video-courses) 
+[HolyGrail: Technical Interview](https://github.com/Developer-Y/technical-interviews) 
+[HolyGrail: Science & Math](https://github.com/Developer-Y/math-science-video-lectures) 
+[HolyGrail: Distributed Systems, Scalability and System Design: Talks/Papers](https://github.com/Developer-Y/Scalable-Software-Architecture) [HolyGrail: Java](https://github.com/Developer-Y/all-things-java) 
+
