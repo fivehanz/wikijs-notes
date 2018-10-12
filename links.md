@@ -88,4 +88,5 @@
 [Stanford CS229 Machine Learning](https://see.stanford.edu/Course/CS229)
 [Google Summer of Code](https://summerofcode.withgoogle.com/)
 [Google Applied CS with Android](https://appliedcsskills.withgoogle.com)
+[HolyGrail: Awesome Courses](https://github.com/haniel56/awesome-courses)
 
