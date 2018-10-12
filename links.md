@@ -40,10 +40,6 @@
 [Harvard CS 124 Data Structures and Algorithms](http://sites.fas.harvard.edu/~cs124/cs124/lecture_notes.html) 
 [Harvard CS 224 Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) 
 [Harvard CS 229r Algorithms for Big Data](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) 
-
-
-[Harvard Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5) 
-[Harvard Mobile Application Development with React Native](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR) 
 [Sketching Algorithms for Big Data](https://www.sketchingbigdata.org/) 
 
 # eBooks
@@ -51,6 +47,12 @@
 [Interaction Design by Preece J, PDF](http://www19.zippyshare.com/v/2CBi52PP/file.html) 
 [The Design of Everyday Things by Norman, D. A. (1988), Summary](http://www.sharritt.com/CISHCIExam/norman.html) 
 [Introduction to Algorithms by CLRS 3rd ed, PDF](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
+
+# Web
+
+[Harvard Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5) 
+[Harvard Mobile Application Development with React Native](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR) 
+
 # MISC / Tutorials
 [Anonymous Technical Interviews](https://interviewing.io/) 
 [What CS Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/) 
