@@ -11,8 +11,8 @@
 [MIT 6.088 Introduction to C Memory Management & C++ OOP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) 
 [MIT 6.S096 Effective Programming in C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) 
 
-# SE 
-[IIT K, SE](https://nptel.ac.in/downloads/106105087/)
+# SoftEng 
+[IITK SE](https://nptel.ac.in/downloads/106105087/)
 
 # DISCRETE MATHS / TOC
 
