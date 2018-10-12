@@ -81,3 +81,11 @@
 [HolyGrail: Distributed Systems, Scalability and System Design: Talks/Papers](https://github.com/Developer-Y/Scalable-Software-Architecture) 
 [HolyGrail: Java](https://github.com/Developer-Y/all-things-java) 
 
+# Aspiration to do
+
+[Google Resources](https://techdevguide.withgoogle.com/resources/)
+[Google Deep Learning](https://eu.udacity.com/course/deep-learning--ud730)
+[Stanford CS229 Machine Learning](https://see.stanford.edu/Course/CS229)
+[Google Summer of Code](https://summerofcode.withgoogle.com/)
+[Google Applied CS with Android](https://appliedcsskills.withgoogle.com)
+
