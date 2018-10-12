@@ -7,6 +7,9 @@
 # KBS
 
 # C/C++
+[MIT 6.096 Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) 
+[MIT 6.088 Introduction to C Memory Management & C++ OOP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) 
+[MIT 6.S096 Effective Programming in C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) 
 
 # SE 
 [IIT K, SE](https://nptel.ac.in/downloads/106105087/)
@@ -18,7 +21,7 @@
 
 # Algorithms and Data Structures
 
-[IIT Delhi Intro to Human Computer Interaction](http://nptel.ac.in/courses/106106177/) 
+
 [IIT Madras Design and Analysis of Algorithms](http://nptel.ac.in/courses/106106131/) 
 [IIT Kharagpur Design and Analysis of Algorithms](http://nptel.ac.in/courses/106105157/) 
 [IIT Bombay Design and Analysis of Algorithms](http://nptel.ac.in/courses/106101060/) 
@@ -31,10 +34,10 @@
 [Stanford Algorithms: Design and Analysis 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V) 
 [Stanford Algorithms: Design and Analysis 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) 
 [Utrecht Uni Algorithm Analysis](https://liris.cnrs.fr/~npronost/UUCourses/ElementaryMathsGMT/04%20Algorithm%20Analysis/) 
-[MIT 6.189 Intro to Programming Using Python 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/) 
 [Harvard CS 124 Data Structures and Algorithms](http://sites.fas.harvard.edu/~cs124/cs124/lecture_notes.html) 
 [Harvard CS 224 Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) 
 [Harvard CS 229r Algorithms for Big Data](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) 
+
 [Harvard Understanding Tech for Non-Techies](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p) 
 [Harvard Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5) 
 [Harvard Computer Science for Business Professionals](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc) 
@@ -65,4 +68,6 @@
 [The Design of Everyday Things by Norman, D. A. (1988), Summary](http://www.sharritt.com/CISHCIExam/norman.html) 
 [Introduction to Algorithms by CLRS 3rd ed, PDF](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
 
+[MIT 6.189 Intro to Programming Using Python 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/) 
+[IIT Delhi Intro to Human Computer Interaction](http://nptel.ac.in/courses/106106177/) 
 [Linux Tutorial 7hrs](https://www.youtube.com/watch?v=9t_gJWC32zk)
