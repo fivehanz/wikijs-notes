@@ -43,19 +43,19 @@
 	*  Eg. Windows XP to Windows 7, 10
 * Reusable S/W components allow to concentrate on innovative elements of design. However, most S/W are custom built.
 
-## S/W Quality: What?
+## 1.2 S/W Quality: What?
 
 * Quality of development process that consequences quality of the product.
 * S/W development methodologies 'model' the S/W from its specification to its implemention.
 
-## S/W
+## 1.3 S/W
 
 * S/W production has a poor track record of being error/bug free.
 * Substantial errors still exists
 
-## Factors affecting S/W Quality
+## 1.4 Factors affecting S/W Quality
 
-#### Complexity
+* **Complexity**
 
 
 
