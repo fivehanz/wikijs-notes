@@ -21,3 +21,9 @@
 # SD: From art to engineering
 ## 1.1 S/W systems vs H/W
 
+|S/W Eng Viewpoint|H/W Eng Viewpoint|
+|---|---|
+|   |   |
+|   |   |
+
+
