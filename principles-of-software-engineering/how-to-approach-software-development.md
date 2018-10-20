@@ -34,7 +34,7 @@
 |:-:|:-:|
 |![Hwfrc](/uploads/hwfrc.png "Hwfrc")|![Swfrc](/uploads/swfrc.png "Swfrc")|
 
-* Actual S/W Curve
+### Actual S/W Curve
 * ![Swafrc](/uploads/swafrc.png "Swafrc")
 
 
