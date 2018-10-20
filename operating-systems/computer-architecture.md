@@ -4,6 +4,8 @@
 # What?
 * main sole purpose of computer is to **execute programs**
 
+![](/uploads/coa.png)
+
 # Basic Elements
 * **Processor (CPU):**
 	* heart, brain of the computer
