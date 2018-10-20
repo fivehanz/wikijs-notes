@@ -65,5 +65,9 @@
 	* Each change worsens the system structure making the next change even more expensive.
 	* As time goes on, implementing a change becomes too expensive and the system is no more viable to maintain
 
+## 1.5 The need for S/W Engineering
 
+> The application of engineering to software, i.e. the application of a systematic, disciplined, quantifiable
+approach to its development, operation, and maintenance
+(IEEE, 1993)
 
