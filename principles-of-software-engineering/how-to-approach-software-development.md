@@ -28,10 +28,13 @@
 
 * Until few years ago, computing foccussed on data processing systems.
 * H/W were limited to the standard I/O devices.
-* H/W is currently capable of providing structured data through pluggable software drivers that represent the real interfacing protocol for the system developers.'
+* H/W is currently capable of providing structured data through pluggable software drivers that represent the real interfacing protocol for the system developers.
 
 | H/W Failure curve | S/W (IDEALIZED) Failure curve |
 |:-:|:-:|
 |![Hwfrc](/uploads/hwfrc.png "Hwfrc")|![Swfrc](/uploads/swfrc.png "Swfrc")|
+
+* Actual S/W Curve
+* ![Swafrc](/uploads/swafrc.png "Swafrc")
 
 
