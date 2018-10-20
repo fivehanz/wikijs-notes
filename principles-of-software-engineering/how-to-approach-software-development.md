@@ -23,7 +23,7 @@
 
 |S/W Eng Viewpoint|H/W Eng Viewpoint|
 |---|---|
-|   |   |
+|systems are mostly s/w systems|systems are traditionally h/w systems|
 |   |   |
 
 
