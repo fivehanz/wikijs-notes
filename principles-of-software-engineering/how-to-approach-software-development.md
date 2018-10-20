@@ -67,7 +67,6 @@
 
 ## 1.5 The need for S/W Engineering
 
-> The application of engineering to software, i.e. the application of a systematic, disciplined, quantifiable
-approach to its development, operation, and maintenance
-(IEEE, 1993)
+> The application of engineering to software, i.e. the application of a **systematic, disciplined, quantifiable**
+approach to its **development, operation, and maintenance.** (IEEE, 1993)
 
