@@ -55,7 +55,15 @@
 
 ## 1.4 Factors affecting S/W Quality
 
-* **Complexity**
+* **Complexity:**
+	* The problem domain is complex
+	* The development process is very difficult to manage
+	* A system is now so complex that no single programmer can fully understand all its code
+
+* **Change:**
+* A system change to fix a bug causes another bug
+* Each change worsens the system structure making the next change even more expensive.
+* As time goes on, implementing a change becomes too expensive and the system is no more viable to maintain
 
 
 
