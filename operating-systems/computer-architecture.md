@@ -4,8 +4,7 @@
 # What?
 * main sole purpose of computer is to **execute programs**
 
-![COA]( =409x430)
-<img src="/uploads/coa.png" width="200">
+<img src="/uploads/coa.png" width="409" height="430">
 
 # Basic Elements
 * **Processor (CPU):**
