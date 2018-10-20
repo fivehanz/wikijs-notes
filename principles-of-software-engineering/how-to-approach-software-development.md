@@ -32,5 +32,6 @@
 
 | H/W Failure curve | S/W (IDEALIZED) Failure curve |
 |:-:|:-:|
+|||
 
 
