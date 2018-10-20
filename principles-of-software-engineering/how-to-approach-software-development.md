@@ -21,7 +21,7 @@
 # SD: From art to engineering
 ## 1.1 S/W systems vs H/W
 
-|S/W Eng Viewpoint|H/W Eng Viewpoint|
+|S/W Engineer Viewpoint|H/W Engineer Viewpoint|
 |:-----------------------------------------------:|:------------------------------------------------------:|
 |systems are mostly s/w systems|systems are traditionally h/w systems|
 |h/w component is controlled through standard interfacing protocols|s/w are either not existing or not extremely relevent|
