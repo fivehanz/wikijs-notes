@@ -36,6 +36,26 @@
 
 * **Actual S/W Curve**
 * ![Swafrc](/uploads/swafrc.png "Swafrc")
-*  S/W engineering/development intriduces quality problems based on its complexity (***that do not exist in classic manufacturing.***)
+*  S/W engineering/development intriduces **quality** issues/problems based on its complexity (*that do not exist in classic manufacturing.*)
+*  S/W is about human things, it changes w.r.t time as a result of continous change.
+*  more the messing around with the perfect code, more it has side effects.
+*  Constraints are removed due to H/W upgrades in due time.
+	*  Eg. Windows XP to Windows 7, 10
+* Reusable S/W components allow to concentrate on innovative elements of design. However, most S/W are custom built.
+
+## S/W Quality: What?
+
+* Quality of development process that consequences quality of the product.
+* S/W development methodologies 'model' the S/W from its specification to its implemention.
+
+## S/W
+
+* S/W production has a poor track record of being error/bug free.
+* Substantial errors still exists
+
+## Factors affecting S/W Quality
+
+### Complexity
+
 
 
