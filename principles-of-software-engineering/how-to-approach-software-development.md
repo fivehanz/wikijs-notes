@@ -12,8 +12,12 @@
 * focus of different appoach to schedule of different activities involved in Software Development
 * no single theoritical model/paradigm actually works in every circumstance.
 
-# INCEPTION
+# Inception
 * focus mostly on (but not only)
 	* Bussiness modeling 
 	* Requirements extraction and analysis
 	* Preliminary design
+
+# SD: From art to engineering
+## 1.1 S/W systems vs H/W
+
