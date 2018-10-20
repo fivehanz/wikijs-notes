@@ -67,6 +67,13 @@
 
 ## 1.5 The need for S/W Engineering
 
+S/W Engineering formally defined:
+
 > The application of engineering to software, i.e. the application of a **systematic, disciplined, quantifiable**
 approach to its **development, operation, and maintenance.** (IEEE, 1993)
 
+Software Engineering is a collection of concepts, methods and tools that help with the production of:
+* a high quality software system
+* with a given budget
+* before a given deadline
+* while change occurs
