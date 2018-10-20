@@ -26,4 +26,8 @@
 |systems are mostly s/w systems|systems are traditionally h/w systems|
 |h/w component is controlled through standard interfacing protocols|s/w are either not existing or not extremely relevent|
 
+* Until few years ago, computing foccussed on data processing systems.
+* H/W were limited to the standard I/O devices.
+* H/W is currently capable of providing structured data through pluggable software drivers that represent the real interfacing protocol for the system developers.
+
 
