@@ -32,6 +32,6 @@
 
 | H/W Failure curve | S/W (IDEALIZED) Failure curve |
 |:-:|:-:|
-|||
+|![Hwfrc](/uploads/hwfrc.png "Hwfrc")|![Swfrc](/uploads/swfrc.png "Swfrc")|
 
 
