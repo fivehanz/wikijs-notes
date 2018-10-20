@@ -34,7 +34,8 @@
 |:-:|:-:|
 |![Hwfrc](/uploads/hwfrc.png "Hwfrc")|![Swfrc](/uploads/swfrc.png "Swfrc")|
 
-### Actual S/W Curve
+* **Actual S/W Curve**
 * ![Swafrc](/uploads/swafrc.png "Swafrc")
+*  S/W engineering/development intriduces quality problems based on its complexity (***that do not exist in classic manufacturing.***)
 
 
