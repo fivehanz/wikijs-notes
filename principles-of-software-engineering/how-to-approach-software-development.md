@@ -22,7 +22,7 @@
 ## 1.1 S/W systems vs H/W
 
 |S/W Eng Viewpoint|H/W Eng Viewpoint|
-|-----------------------------------------------|------------------------------------------------------|
+|:-----------------------------------------------:|:------------------------------------------------------:|
 |systems are mostly s/w systems|systems are traditionally h/w systems|
 |h/w component is controlled through standard interfacing protocols|   |
 
