@@ -24,6 +24,6 @@
 |S/W Eng Viewpoint|H/W Eng Viewpoint|
 |:-----------------------------------------------:|:------------------------------------------------------:|
 |systems are mostly s/w systems|systems are traditionally h/w systems|
-|h/w component is controlled through standard interfacing protocols|   |
+|h/w component is controlled through standard interfacing protocols|s/w are either not existing or not extremely relevent|
 
 
