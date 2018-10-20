@@ -77,3 +77,7 @@ Software Engineering is a collection of concepts, methods and tools that help wi
 * with a given budget
 * before a given deadline
 * while change occurs
+
+**What is S/W Engineering?**
+
+
