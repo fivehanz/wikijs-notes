@@ -3,4 +3,4 @@
 
 # Header
 
-[KBS](/leo/kbs)
+[Knowledge Based Systems](/leo/kbs)
