@@ -4,6 +4,7 @@
 # Topics
 * [Operating Systems](/operating-systems)
 * [Principles of S.E.](/principles-of-software-engineering)
+* [KBS](/knowledge-based-representation)
 
 
 -----
