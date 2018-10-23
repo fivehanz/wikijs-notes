@@ -1,6 +1,10 @@
 <!-- TITLE: Knowledge Based Systems -->
 <!-- SUBTITLE: A quick summary of Knowledge Based Systems -->
 
+
+# TOC
+# Assessment
+![Deepinscreenshot Select Area 20181023124901](/uploads/deepinscreenshot-select-area-20181023124901.png "Deepinscreenshot Select Area 20181023124901")
 # Important
 * Description Logic and examples in slides
 * RDF, N3
