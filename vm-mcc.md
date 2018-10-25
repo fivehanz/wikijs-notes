@@ -14,4 +14,7 @@ Step 3: Run the installer.
 * run the setup file from DISK1
 * Error 1: Shared folder, leave it blank.
 * If that doesn't work, create a folder and put the path of the folder.
+* 
 * ![Sharedmcc](/uploads/sharedmcc.png "Sharedmcc")
+
+**That are the main steps to install MCC**
