@@ -59,6 +59,5 @@ https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_works
 ### BYZANTIUM MCC
 
 ![Byz](/uploads/byzantium/byz.png "Byz")
-
 -----
 
