@@ -15,8 +15,12 @@ https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_works
 
 ## Step 3: Create VM using VMware Player
 * Select "**Create a New Virtual Machine**" on VMware Player.
-
 * ![Vmplayerisoselect](/uploads/vmplayerisoselect.png "Vmplayerisoselect")
+
+* Select Continue when asked for key. (You can search for a key online available for free to enter at this stage or after installation.)
+* ![Vmpxpkeyaskvm](/uploads/vmpxpkeyaskvm.png "Vmpxpkeyaskvm")
+
+*
 
 
 Step 1: to get MCC setup files into C: Drive of virtual machine.
