@@ -1,10 +1,11 @@
-<!-- TITLE: Vm Mcc -->
+<!-- TITLE: VM MCC -->
 <!-- SUBTITLE: How to install MCC app on VM -->
 
-# Virtual Machine
-Install Windows XP on Virtual Machine.
+# Windows XP on VM
+## Step 1: Install VMWare Player
 
-* I happened to install windows XP on VirtualBox, but couldn't get the files transfered so I installed it on VMware Player.
+
+
 
 Step 1: to get MCC setup files into C: Drive of virtual machine.
 Step 2: copy all files to a folder "DISK1"
