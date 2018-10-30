@@ -41,8 +41,19 @@ https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_works
 ### MCC to DISK1
 ![Wxpredisk 1](/uploads/wxpredisk-1.png "Wxpredisk 1")
 
-Step 2: copy all files to a folder "DISK1"
-Step 3: Run the installer.
+# Step 4: Run the installer (setup)
+* Navigate to inside the folder
+* Select the Setup
+* Click **Continue** -> **New Installation**
+
+### Let the default folder be WINMAC
+![Wxpmccinswinmac](/uploads/wxpmccinswinmac.png "Wxpmccinswinmac")
+
+### Shared Marking Data Folder
+
+* Leave it **blank by default**. **if error persists, create a new folder by anyname in C: Drive and type the path of this new folder here.**
+
+
 # Installation
 * run the setup file from DISK1
 * Error 1: Shared folder, leave it blank.
