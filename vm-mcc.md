@@ -4,8 +4,8 @@
 https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0
 
 * I have installed VMWare Workstation Player 15.0 on a Ubuntu based linux.
-* VMware Player is free for non-comercial usage.
-* Download and Install VMWare Player
+* VMware Player is free for personal usage.
+* Download and Install VMWare Player 15
 # Step 2: Download Windows XP ISO
 * Download any genuine Windows XP SP3 ISO from Microsoft website.
 # Step 3: Create VM using VMware Player
