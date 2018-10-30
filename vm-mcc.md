@@ -54,3 +54,8 @@ https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_works
 * Leave it **blank by default**. **if error persists, create a new folder by anyname in C: Drive and type the path of this new folder here.**
 
 ![Sharedmcc](/uploads/sharedmcc.png "Sharedmcc")
+
+# Step 5: Done and Ready
+### Start Menu
+
+![Shortcut](/uploads/byzantium/shortcut.png "Shortcut")
