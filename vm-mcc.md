@@ -53,10 +53,4 @@ https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_works
 
 * Leave it **blank by default**. **if error persists, create a new folder by anyname in C: Drive and type the path of this new folder here.**
 
-![Insmccshpath](/uploads/byzantium/insmccshpath.png "Insmccshpath")
-
-### Finished Installation
-
-* ![Sharedmcc](/uploads/sharedmcc.png "Sharedmcc")
-
-**That are the main steps to install MCC**
+![Sharedmcc](/uploads/sharedmcc.png "Sharedmcc")
