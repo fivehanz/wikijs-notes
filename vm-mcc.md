@@ -17,11 +17,17 @@ https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_works
 * Select "**Create a New Virtual Machine**" on VMware Player.
 * ![Vmplayerisoselect](/uploads/vmplayerisoselect.png "Vmplayerisoselect")
 *
+* **Select a Name for your VM**
+* ![Vmxpwizname](/uploads/vmxpwizname.png "Vmxpwizname")
+*
 * **Select NEXT and YES when asked for key. (You can search for a key online available for free to enter at this stage or after installation.)**
 * ![Vmpxpkeyaskvm](/uploads/vmpxpkeyaskvm.png "Vmpxpkeyaskvm")
 *
-* 
+* **Select your desired disk size** 
+* ![Vmxpwizdisksize](/uploads/vmxpwizdisksize.png "Vmxpwizdisksize")
 
+* **Finish Installation, check automatically start the VM**
+* ![Vmxpwizfinish](/uploads/vmxpwizfinish.png "Vmxpwizfinish")
 
 Step 1: to get MCC setup files into C: Drive of virtual machine.
 Step 2: copy all files to a folder "DISK1"
