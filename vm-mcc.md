@@ -56,13 +56,7 @@ https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_works
 ![Insmccshpath](/uploads/byzantium/insmccshpath.png "Insmccshpath")
 
 ### Finished Installation
-![Insmccshpath](/uploads/byzantium/talled.png "Insmccshpath")
 
-# Installation
-* run the setup file from DISK1
-* Error 1: Shared folder, leave it blank.
-* If that doesn't work, create a folder and put the path of the folder.
-* 
 * ![Sharedmcc](/uploads/sharedmcc.png "Sharedmcc")
 
 **That are the main steps to install MCC**
