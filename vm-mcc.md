@@ -35,7 +35,12 @@ https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_works
  
  
 # Step 3: Copy MCC files inside VM
-Step 1: to get MCC setup files into C: Drive of virtual machine.
+* **Connect flash drive and copy MCC setup files into C: Drive of virtual machine.**
+* **Rename it to "DISK1"**
+
+### MCC to DISK1
+![Wxpredisk 1](/uploads/wxpredisk-1.png "Wxpredisk 1")
+
 Step 2: copy all files to a folder "DISK1"
 Step 3: Run the installer.
 # Installation
