@@ -1,17 +1,13 @@
 <!-- TITLE: VM MCC -->
 <!-- SUBTITLE: How to install MCC app on VM of Windows XP SP3 -->
-
 # Step 1: Install VMWare Player
 https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0
 
 * I have installed VMWare Workstation Player 15.0 on a Ubuntu based linux.
 * VMware Player is free for non-comercial usage.
 * Download and Install VMWare Player
-
 # Step 2: Download Windows XP ISO
 * Download any genuine Windows XP SP3 ISO from Microsoft website.
-
-
 # Step 3: Create VM using VMware Player
 ## Select "**Create a New Virtual Machine**" on VMware Player.
 ![Vmplayerisoselect](/uploads/vmplayerisoselect.png "Vmplayerisoselect")
@@ -64,4 +60,5 @@ https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_works
 
 ![Byz](/uploads/byzantium/byz.png "Byz")
 
+-----
 
