@@ -1,5 +1,5 @@
 <!-- TITLE: VM MCC -->
-<!-- SUBTITLE: How to install MCC app on VM -->
+<!-- SUBTITLE: How to install MCC app on VM of Windows XP SP3 -->
 
 # Step 1: Install VMWare Player
 https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0
@@ -53,6 +53,10 @@ https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_works
 
 * Leave it **blank by default**. **if error persists, create a new folder by anyname in C: Drive and type the path of this new folder here.**
 
+![Insmccshpath](/uploads/byzantium/insmccshpath.png "Insmccshpath")
+
+### Finished Installation
+![Insmccshpath](/uploads/byzantium/talled.png "Insmccshpath")
 
 # Installation
 * run the setup file from DISK1
