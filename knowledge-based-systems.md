@@ -9,9 +9,9 @@
 * ![Deepinscreenshot Select Area 20181023124939](/uploads/deepinscreenshot-select-area-20181023124939.png "Deepinscreenshot Select Area 20181023124939")
 * ![Deepinscreenshot Select Area 20181023124949](/uploads/deepinscreenshot-select-area-20181023124949.png "Deepinscreenshot Select Area 20181023124949")
 # Important
-* Description Logic and examples in slides
-* RDF, N3
-* OWL, JESS Codes
+* **Description Logic** and examples in slides
+* **RDF, N3**
+* **OWL, JESS** Codes
 * Semantic Networks
 * Past Question Papers
 
