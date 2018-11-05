@@ -13,6 +13,7 @@
 * **RDF, N3**
 * **OWL, JESS** Codes
 * **Semantic Networks**
+* Fuzzy Logic
 * Past Question Papers
 
 # Past QP
