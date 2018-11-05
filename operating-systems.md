@@ -7,4 +7,4 @@
 * [Process](/operating-systems/processes)
 
 # Revision Slides
-* 
+* [Os Revision Slides](/uploads/os-revision-slides.pdf "Os Revision Slides")
