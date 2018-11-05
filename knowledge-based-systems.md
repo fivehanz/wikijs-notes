@@ -12,7 +12,7 @@
 * **Description Logic** and examples in slides
 * **RDF, N3**
 * **OWL, JESS** Codes
-* Semantic Networks
+* **Semantic Networks**
 * Past Question Papers
 
 # Past QP
