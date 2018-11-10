@@ -1,7 +1,7 @@
 <!-- TITLE: Forward And Backward Chaining -->
 <!-- SUBTITLE: A quick summary of Forward And Backward Chaining -->
 
-# Videos
+# Notes
 * [First: Inference Engine](https://www.youtube.com/watch?v=aVwcNDKXcHU)
 	* Inference: coming to a conclusion/decision
 	* Inference Engine: **applies logical rules to the Knowledge base to deduce information**.
