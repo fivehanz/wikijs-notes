@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=ZhTt-GG7PiQ
 	* **decision/goal driven inference technique**
 	* initial state is fetched based on the decision
 	* searches relevent data for the decsion
-	* **Decision ----> Data **
+	* **Decision ----> Data**
