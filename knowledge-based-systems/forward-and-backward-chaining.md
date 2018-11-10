@@ -12,6 +12,11 @@ https://www.youtube.com/watch?v=ZhTt-GG7PiQ
 		* ![Infengine](/uploads/images/infengine.png "Infengine")
 		* **Forward Chaining: asserts new facts with known facts**
 		* **Backward Chaining: works backward to determine what facts must be asserted so that goals can be achieved.**
+		
 * [Forward Chaining](https://www.youtube.com/watch?v=PBTSdx_C9WM)
 	* **Process of making a decision with known/available data**
 	* Example is on linked video.
+
+* [Backward Chaining](https://www.youtube.com/watch?v=W5O8QAWu-OM)
+	* decision/goal driven inference technique
+	* initial state is fetched based on the decision
