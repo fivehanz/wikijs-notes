@@ -15,10 +15,11 @@ https://www.youtube.com/watch?v=ZhTt-GG7PiQ
 		
 * [Forward Chaining](https://www.youtube.com/watch?v=PBTSdx_C9WM)
 	* **Process of making a decision with known/available data**
-	* Data ----> Decision
+	* **Data ----> Decision**
 	* Example is on linked video.
 
 * [Backward Chaining](https://www.youtube.com/watch?v=W5O8QAWu-OM)
-	* decision/goal driven inference technique
+	* **decision/goal driven inference technique**
 	* initial state is fetched based on the decision
-	* Decision ----> Data 
+	* searches relevent data for the decsion
+	* **Decision ----> Data **
