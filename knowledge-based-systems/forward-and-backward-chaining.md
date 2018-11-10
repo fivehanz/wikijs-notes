@@ -6,6 +6,7 @@
 	* Inference: coming to a conclusion/decision
 	* Inference Engine: **applies logical rules to the Knowledge base to deduce information**.
 	* Two Modes: 
+		* ![Infengine](/uploads/images/infengine.png "Infengine")
 		* **Forward Chaining: asserts new facts with known facts**
 		* **Backward Chaining: works backward to determine what facts must be asserted so that goals can be achieved.**
 * [Forward Chaining](https://www.youtube.com/watch?v=PBTSdx_C9WM)
