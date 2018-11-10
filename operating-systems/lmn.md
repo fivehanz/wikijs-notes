@@ -1,34 +1,36 @@
-<!-- TITLE: Lmn -->
-<!-- SUBTITLE: A quick summary of Lmn -->
+<!-- TITLE: Last Minute Notes -->
+<!-- SUBTITLE: A quick summary of OS -->
 
 Operating Systems: It is the interface between the user and the computer hardware.
 
-Types of Operating System (OS):
+## Types of Operating System (OS):
 
-Batch OS –
-A set of similar jobs are stored in the main memory for execution. A job gets assigned to the CPU, only when the execution of the previous job completes.
-Multiprogramming OS –
-The main memory consists of jobs waiting for CPU time. The OS selects one of the processes and assigns it to the CPU. Whenever the executing process needs to wait for any other operation (like I/O), the OS selects another process from the job queue and assigns it to the CPU. This way, the CPU is never kept idle and the user gets the flavor of getting multiple tasks done at once.
-Multitasking OS –
-Multitasking OS combines the benefits of Multiprogramming OS and CPU scheduling to perform quick switches between jobs. The switch is so quick that the user can interact with each program as it runs
-Time Sharing OS –
-Time sharing systems require interaction with the user to instruct the OS to perform various tasks. The OS responds with an output. The instructions are usually given through an input device like the keyboard.
-Real Time OS –
-Real Time OS are usually built for dedicated systems to accomplish a specific set of tasks within deadlines.
+### Batch OS –
+	A set of similar jobs are stored in the main memory for execution. A job gets assigned to the CPU, only when the execution of the previous job completes.
+### Multiprogramming OS –
+	The main memory consists of jobs waiting for CPU time. The OS selects one of the processes and assigns it to the CPU. Whenever the executing process needs to wait for any other operation (like I/O), the OS selects another process from the job queue and assigns it to the CPU. This way, the CPU is never kept idle and the user gets the flavor of getting multiple tasks done at once.
+### Multitasking OS –
+	Multitasking OS combines the benefits of Multiprogramming OS and CPU scheduling to perform quick switches between jobs. The switch is so quick that the user can interact with each program as it runs
+### Time Sharing OS –
+	Time sharing systems require interaction with the user to instruct the OS to perform various tasks. The OS responds with an output. The instructions are usually given through an input device like the keyboard.
+### Real Time OS –
+	Real Time OS are usually built for dedicated systems to accomplish a specific set of tasks within deadlines.
 
 
  
 
-Threads:
-A thread is a light weight process and forms the basic unit of CPU utilization. A process can perform more than one task at the same time by including multiple threads.
+## Threads:
+	A thread is a light weight process and forms the basic unit of CPU utilization. A process can perform more than one task at the same time by including multiple threads.
 
-A thread has its own program counter, register set, and stack
-A thread shares resources with other threads of the same process the code section, the data section, files and signals.
-A new thread, or a child process of a given process, can be introduced by using the fork() system call. A process with n fork() system calls generates 2n – 1 child processes.
+* A thread has its own program counter, register set, and stack
+*	A thread shares resources with other threads of the same process the code section, the data section, files and signals.
+	A new thread, or a child process of a given process, can be introduced by using the fork() system call. A process with n fork() system calls generates 2n – 1 child processes.
+
 There are two types of threads:
 
-User threads
-Kernel threads
+* User threads
+* Kernel threads
+
 Example: Java thread, POSIX threads.Example : Window Solaris.
 
  
