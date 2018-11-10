@@ -4,7 +4,7 @@
 
 # TOC
 * [Assessment](/knowledge-based-systems/assessment)
-* [Forward Chaining](/knowledge-based-systems/forward-chaining)
+* [Forward and Backward Chaining](/knowledge-based-systems/forward-and-backward-chaining)
 # Important
 * **Description Logic** and examples in slides
 * **RDF, N3**
