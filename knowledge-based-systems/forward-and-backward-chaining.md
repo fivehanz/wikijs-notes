@@ -2,7 +2,9 @@
 <!-- SUBTITLE: A quick summary of Forward And Backward Chaining -->
 
 # Notes
-https://www.youtube.com/watch?v=ZhTt-GG7PiQ
+* [Modus Ponens](https://www.youtube.com/watch?v=JhH9i47YFHQ)
+	* Latin for "The way that affirms by affirming"
+	* 
 
 
 * [First: Inference Engine](https://www.youtube.com/watch?v=aVwcNDKXcHU)
