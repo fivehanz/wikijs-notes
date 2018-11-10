@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Forward And Backward Chaining -->
 
 # Notes
-* [Modus Ponens](https://www.youtube.com/watch?v=JhH9i47YFHQ)
+* [Modus Ponens](https://www.youtube.com/watch?v=NTSZMdGlo4g)
 	* Latin for "The way that affirms by affirming"
 	* 
 
