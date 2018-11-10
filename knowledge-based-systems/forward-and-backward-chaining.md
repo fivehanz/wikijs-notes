@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=ZhTt-GG7PiQ
 		* **Backward Chaining: works backward to determine what facts must be asserted so that goals can be achieved.**
 		
 * [Forward Chaining](https://www.youtube.com/watch?v=PBTSdx_C9WM)
+	* **Data driven approach**
 	* **Process of making a decision with known/available data**
 	* **Data ----> Decision**
 	* Example is on linked video.
