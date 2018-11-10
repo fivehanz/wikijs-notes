@@ -1,8 +1,9 @@
 <!-- TITLE: Last Minute Notes -->
 <!-- SUBTITLE: A quick summary of OS -->
 
-Operating Systems: It is the interface between the user and the computer hardware.
+[Source](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
 
+**Operating Systems: It is the interface between the user and the computer hardware.**
 ## Types of Operating System (OS):
 
 * Batch OS –
