@@ -4,7 +4,8 @@
 # Notes
 * [Modus Ponens](https://www.youtube.com/watch?v=NTSZMdGlo4g)
 	* Latin for "The way that affirms by affirming"
-	* 
+	* http://www.cs.jhu.edu/~phi/ai/slides/lecture-inference-in-first-order-logic.pdf
+	* https://www.ics.uci.edu/~welling/teaching/ICS171Fall09/FOLinference171-f09.pdf
 
 
 * [First: Inference Engine](https://www.youtube.com/watch?v=aVwcNDKXcHU)
