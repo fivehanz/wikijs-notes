@@ -2,6 +2,9 @@
 <!-- SUBTITLE: A quick summary of Forward And Backward Chaining -->
 
 # Notes
+* [Forward & Backward Chaining](https://www.youtube.com/watch?v=Dso6EKzvXHo)
+
+
 * [Modus Ponens](https://www.youtube.com/watch?v=NTSZMdGlo4g)
 	* Latin for "The way that affirms by affirming"
 	* http://www.cs.jhu.edu/~phi/ai/slides/lecture-inference-in-first-order-logic.pdf
