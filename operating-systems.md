@@ -21,6 +21,7 @@
 	* Terminals
 	* Network
 	* Device Driver
+	* Deadlocks
 
 * Types of OS
 * 
