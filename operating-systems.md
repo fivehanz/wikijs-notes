@@ -24,7 +24,6 @@
 	* Deadlocks
 
 * Types of OS
-* 
 
 # Contents
 * [Introduce me](/operating-systems/intro)
