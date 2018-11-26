@@ -1,6 +1,29 @@
 <!-- TITLE: Operating Systems -->
 <!-- SUBTITLE: A quick view for Operating Systems -->
 
+
+# What to Study? Revision Slides.
+* Process Management
+	* Process Creation
+	* Process Interruption
+	* Process termination
+	* Scheduling
+	* Inter-process
+	* Communication
+* Memory Management
+	* Virtual Memory
+	* Paging
+	* Segmentation
+	* Page replacement
+* I/O Management
+	* File Systems
+	* Terminals
+	* Network
+	* Device Driver
+
+* Types of OS
+* 
+
 # Contents
 * [Introduce me](/operating-systems/intro)
 * [Computer Architecture](/operating-systems/computer-architecture)
