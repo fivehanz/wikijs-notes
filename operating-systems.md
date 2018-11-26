@@ -14,6 +14,7 @@
 	* Virtual Memory
 	* Paging
 	* Segmentation
+	* Syncronisation
 	* Page replacement
 * I/O Management
 	* File Systems
