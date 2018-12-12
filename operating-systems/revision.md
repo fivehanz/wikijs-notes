@@ -8,7 +8,7 @@ Process Management
 		* active entity (program is passive entity)
 		* can be assigned/executed on a cpu core
 		* enables concurrent programming
-			> cpu switch depending on scheduling
+			* cpu switch depending on scheduling
 		* processes are secure (files, i/o, p-p, can't choose which cpu core)
 		* don't share resources like threads
 	- Two main characteristics
