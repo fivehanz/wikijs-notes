@@ -1,28 +1,11 @@
 <!-- TITLE: Revision -->
 <!-- SUBTITLE: A quick summary of Revision -->
 
-
 # Revision
-
-- Process Management
-	- process create/interrupt/termin
-		* scheduling
-		* communication
-- Memory Management
-		* paging
-		* segmentation
-		* page replacement
-- I/O Management
-		* file systems
-		* terminals
-python
-trap 		- try 
-exception 	- except 
-
 Process Management
-	- Process
+		* Process
 		* a process is a program under execeution
-		* 
+		* active entity (program is passive entity)
 		* can be assigned/executed on a cpu core
 		* enables concurrent programming
 			> cpu switch depending on scheduling
