@@ -2,7 +2,9 @@
 <!-- SUBTITLE: A quick summary of Revision -->
 
 # Revision
+
 Process Management
+
 		* Process
 		* a process is a program under execeution
 		* active entity (program is passive entity)
