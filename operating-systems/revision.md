@@ -2,18 +2,17 @@
 <!-- SUBTITLE: A quick summary of Revision -->
 
 
-Revision
+# Revision
 
-OS split into 3
-	- Process Management
-		* process create/interrupt/termin
+- Process Management
+	- process create/interrupt/termin
 		* scheduling
 		* communication
-	- Memory Management
+- Memory Management
 		* paging
 		* segmentation
 		* page replacement
-	- I/O Management
+- I/O Management
 		* file systems
 		* terminals
 python
