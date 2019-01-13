@@ -4,3 +4,6 @@
 # FSA
 * finite state automaton is an abstract model of a simple machine.
 
+|with output|without output|
+|:--:|:--:|
+|Moore|Mealy|DFSA|NDFSA|lambda-NDFSA|
