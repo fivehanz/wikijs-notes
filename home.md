@@ -5,7 +5,7 @@
 * [Operating Systems](/operating-systems)
 * [Principles of S.E.](/principles-of-software-engineering)
 * [KBS](/knowledge-based-systems)
-
+* [Languages and Computability](https://notes.myfreed.uk/languages-and-computability)
 
 -----
 
