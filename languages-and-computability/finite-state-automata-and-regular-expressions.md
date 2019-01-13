@@ -24,10 +24,10 @@
 
 ### Formal Definition
 A finite state automaton M is a tuple M = (Q, Σ, δ, q0, F) where
-• Q is a finite set of states
-• Σ is a finite set of symbols, our alphabet
-• δ : Q × Σ 7→ Q is the transition function
-• q0 ∈ Q is the initial/start state
-• F ⊆ Q is the set of accept states
+* Q is a finite set of states
+* Σ is a finite set of symbols, our alphabet
+* δ : Q × Σ → Q is the transition function
+* q0 ∈ Q is the initial/start state
+* F ⊆ Q is the set of accept states
 
 
