@@ -10,6 +10,9 @@
 
 # FSA
 * finite state automaton is an abstract model of a simple machine.
+* FSAs check if a string of characters adhere to syntax
+* **Acceptance of String:** scans entire string, if we reach a final state from an initial state
+* **Acceptance of Language:** if all **strings in a language are accepted** and all strings **not** in the language are **rejected.**
 
 * with output
 	* Moore
@@ -18,3 +21,5 @@
 	* Deterministic FSA
 	* Non DFSA
 	* λ-NDFSA
+
+
