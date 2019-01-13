@@ -14,4 +14,3 @@
 * Lambda-calculus
 * Functional programming
 
-# Slides
