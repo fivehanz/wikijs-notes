@@ -28,8 +28,8 @@ els of computation.
 	* Mealy 
 * without output
 	* Deterministic FSA
-	* Non DFSA
-	* λ-NDFSA
+	* Non-Deterministic FSA
+	* λ-NFSA
 
 ### Formal Definition
 A finite state automaton M is a tuple M = (Q, Σ, δ, q0, F) where
