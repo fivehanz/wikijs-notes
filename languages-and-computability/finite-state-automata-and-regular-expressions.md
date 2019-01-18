@@ -39,4 +39,4 @@ A finite state automaton M is a tuple M = (Q, Σ, δ, q0, F) where
 * q0 ∈ Q is the initial/start state
 * F ⊆ Q is the set of accept states
 
-
+## Deterministic Finite Automata (DFA/FSA)
