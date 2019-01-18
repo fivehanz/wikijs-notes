@@ -31,6 +31,11 @@ els of computation.
 	* Non-Deterministic FSA
 	* λ-NFSA
 
+## Deterministic Finite Automata (DFA/FSA)
+
+* every state in DFA always has exactly one exiting transistion arrow for each symbol in the alphabet.
+* labels on the transition arrows are symbols from the alphabet.
+
 ### Formal Definition
 A finite state automaton M is a tuple M = (Q, Σ, δ, q0, F) where
 * Q is a finite set of states
@@ -38,5 +43,3 @@ A finite state automaton M is a tuple M = (Q, Σ, δ, q0, F) where
 * δ : Q × Σ → Q is the transition function
 * q0 ∈ Q is the initial/start state
 * F ⊆ Q is the set of accept states
-
-## Deterministic Finite Automata (DFA/FSA)
