@@ -8,6 +8,15 @@
 * [CS 2013 Lec 3 1 Regular Expressions 1](/uploads/langandcomp/cs-2013-lec-3-1-regular-expressions-1.pdf "Cs 2013 Lec 3 1 Regular Expressions 1")
 * [CS 2013 Lec 3 2 Fsa Re Equivalence](/uploads/langandcomp/cs-2013-lec-3-2-fsa-re-equivalence.pdf "Cs 2013 Lec 3 2 Fsa Re Equivalence")
 
+# AUTOMATA THEORY
+Automata theory deals with the definitions and properties of mathematical mod-
+els of computation.
+
+* *finite automaton*
+	* used in text processing, compilers, and hardware design 
+* *context-free grammer*
+	* used in programming languages and artificial intelligence
+
 # FSA
 * finite state automaton is an abstract model of a simple machine.
 * FSAs check if a string of characters adhere to syntax
