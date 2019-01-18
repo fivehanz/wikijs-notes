@@ -6,6 +6,7 @@
 * [Principles of S.E.](/principles-of-software-engineering)
 * [KBS](/knowledge-based-systems)
 * [Languages and Computability](/languages-and-computability)
+* [Algorithms](/algorithms)
 
 -----
 
