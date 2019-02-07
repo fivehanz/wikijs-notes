@@ -2,7 +2,6 @@
 <!-- SUBTITLE: A quick summary of Algorithms -->
 
 # Topics
-* [Greedy Algorithms](/algorithms/greedy)
 * Analysis
 * Data Structures
 * Sorting
