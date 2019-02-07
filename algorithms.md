@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Algorithms -->
 
 # Topics
-* Analysis
+* [Analysis](/algorithms/analysis)
 * Data Structures
 * Sorting
 * Recursion / Divide and Conquer
