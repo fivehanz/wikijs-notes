@@ -11,3 +11,6 @@
 * Weighted Graphs
 * Dynamic Programming
 * Searching
+
+# Solutions
+* [Solutions to ADM - Skiena](http://www.algorist.com/algowiki/index.php/The_Algorithms_Design_Manual_(Second_Edition))
